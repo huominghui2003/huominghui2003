@@ -1,16 +1,24 @@
-### Hi there 👋
 
-<!--
-**huominghui2003/huominghui2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### - 🔭 SpaceX FanBoi, 
 
-Here are some ideas to get you started:
+#### - 🛸 Into Hight Energy Physics and Astrophysics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### - 💬 Connect? Here 👉🏼[<img src="https://raw.githubusercontent.com/idurarjx/idurarjx/master/svg/social/twitter.svg" >](https://twitter.com/idurarjx/)
+
+
+<br />
+
+
+**I am Into , 🙏**
+
+**Machine Learning, Web Development, SEO, Micro Services, System Design, Competetive Programming & Physics and Physics 😼**
+<br />
+
+
+![Hemant Joshi Github Stats](https://github-readme-stats.vercel.app/api?username=idurarjx&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+<br />
+
+*************
+
+<br />
